@@ -1,4 +1,4 @@
-[![logo](https://github.com/vivekrai89/vivekrai89/blob/main/banner%20vivek.gif)
+![logo](https://github.com/vivekrai89/vivekrai89/blob/main/banner%20vivek.gif)
 <h1 align="center">Hi 👋, I'm Vivek Rai</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif">
