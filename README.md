@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Fullstack**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Java ,Springboot,Hibernate,Mysql**
+- 💬 Ask me about **HTML,CSS,Javascript,Java ,XML, Mysql**
 
 - ⚡ Fun fact **I am funny😊**
 
