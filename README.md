@@ -26,8 +26,11 @@
 <a href="https://www.linkedin.com/in/vivekrai89/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-</p>
 
+<a href="mailto:vivekraics25@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 ---
 
 ### 🛠️ Tech Stack
