@@ -35,13 +35,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,python,c,cpp" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vivekrai89&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrai89&theme=tokyonight" />
-</p>
 
 ---
 
